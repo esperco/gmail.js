@@ -1,0 +1,19 @@
+{
+  "name": "gmail.js",
+  "version": "0.2.2",
+  "homepage": "https://github.com/esperco/gmail.js",
+  "authors": [
+    "Kartik Talwar <github@kartikt.com>"
+  ],
+  "description": "JavaScript API for Gmail",
+  "main": "src/gmail.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "*/*.min.js",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
