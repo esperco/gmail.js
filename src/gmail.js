@@ -1623,3 +1623,6 @@ var Gmail = function(localJQuery) {
 
   return api;
 }
+
+if (typeof exports === 'object') { module.exports = Gmail; }
+
