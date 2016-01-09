@@ -1,0 +1,16 @@
+{
+  "name": "gmail.js",
+  "version": "0.2.2",
+  "description": "JavaScript API for Gmail",
+  "main": "src/gmail.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KartikTalwar/gmail.js.git"
+  },
+  "author": "Kartik Talwar <github@kartikt.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KartikTalwar/gmail.js/issues"
+  },
+  "homepage": "https://github.com/KartikTalwar/gmail.js"
+}
